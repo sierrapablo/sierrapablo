@@ -20,7 +20,7 @@ Although I studied engineering, I have been playing the guitar since I was a chi
 ### My statistics
 <div text-align="center">
     <img width="55%" alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=sierrapablo&show_icons=true&theme=transparent&count_private=true&hide_border=true&title_color=16b868&icon_color=b83b86" />
-    <img width="40%" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sierrapablo" />
+    <img width="40%" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sierrapablo&layout=compact&hide_border=true&title_color=16b868&theme=transparent" />
 </div>
 <div>
     <img width="95%" alt="Streak and contributions" src="https://github-readme-streak-stats.herokuapp.com?user=sierrapablo&theme=vue&hide_border=true&background=transparent&stroke=16b868" />
