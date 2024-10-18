@@ -1,13 +1,20 @@
 <h1>Hi, I'm Pablo. It's nice to meet you here!</h1>
-I am a data engineer who loves working in challenging projects with all kinds of technologies.</br>
+<p>
+  I am a data engineer who loves working in challenging projects with all kinds of technologies.</br>
+</p>
 
 <h2>About me</h2>
-Although I studied engineering, I have been playing the guitar since I was a child, and now I am trying to earn a living as a musician. In my free time, I work on a couple of side projects because I love technology and consider myself a bit of a geek. I have worked in various roles as a data engineer and data analyst, and I am now focusing on learning front-end development to complement my data-driven expertise, allowing me to create end-to-end applications and to lead larger projects.
+<p>
+  I have worked in various roles as a data engineer and data analyst, and I am now focused on learning front-end development to complement my data-driven expertise, allowing me to create end-to-end applications and to lead larger projects.</br>
+</p>
+<p>
+  In my free time, I work on a couple of side projects because I love technology and consider myself a bit of a geek.</br>
+</p>
 
 <h2>My main stack</h2>
 <h3>Languages</h3>
 <div style="display: flex; justify-content: space-between; align-items: center; margin: 0 auto;">
-  <img width="5%" alt="NodeJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img width="5%" alt="NodeJS" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nodejs/nodejs-original.svg" />
   <img width="5%" alt="Python" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original.svg" />
   <img width="5%" alt="C++" src="https://github.com/isocpp/logos/blob/master/cpp_logo.svg" />
   <img width="5%" alt="Postgres" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
@@ -18,19 +25,19 @@ Although I studied engineering, I have been playing the guitar since I was a chi
 </div>
 <h3>Tools I frequently use</h3>
 <div style="display: flex; justify-content: space-between; align-items: center; margin: 0 auto;">
-  <img width="2.5%" alt="Ubuntu" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" />
-  <img width="2.5%" alt="Windows" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/windows11/windows11-original.svg" />
-  <img width="2.5%" alt="Android" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/android/android-original.svg" />
-  <img width="2.5%" alt="VSCode" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vscode/vscode-original.svg" />
-  <img width="2.5%" alt="GitHub" src="https://www.svgrepo.com/download/217753/github.svg" />
-  <img width="2.5%" alt="DBeaver" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/dbeaver/dbeaver-original.svg" />
-  <img width="2.5%" alt="Postman" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postman/postman-original.svg" />
-  <img width="2.5%" alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-  <img width="2.5%" alt="FileZilla" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/filezilla/filezilla-original.svg" />
-  <img width="2.5%" alt="Notion" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/notion/notion-original.svg" />
+  <img width="3.5%" alt="Ubuntu" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" />
+  <img width="3.5%" alt="Windows" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/windows11/windows11-original.svg" />
+  <img width="3.5%" alt="Android" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/android/android-original.svg" />
+  <img width="3.5%" alt="VSCode" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vscode/vscode-original.svg" />
+  <img width="3.5%" alt="GitHub" src="https://www.svgrepo.com/download/217753/github.svg" />
+  <img width="3.5%" alt="DBeaver" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/dbeaver/dbeaver-original.svg" />
+  <img width="3.5%" alt="Postman" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postman/postman-original.svg" />
+  <img width="3.5%" alt="Docker" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/docker/docker-original.svg" />
+  <img width="3.5%" alt="FileZilla" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/filezilla/filezilla-original.svg" />
+  <img width="3.5%" alt="Notion" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/notion/notion-original.svg" />
 </div>
 
-<h2>My statistics</h2>
+<h2>My GitHub statistics</h2>
 <div style="display: flex; justify-content: space-between; align-items: center; margin: 0 auto;">
     <div style="flex-basis: 95%; text-align: center;">
         <!-- Stats para el modo oscuro (Izquierda) -->
@@ -70,4 +77,15 @@ Although I studied engineering, I have been playing the guitar since I was a chi
           src="https://github-readme-streak-stats.herokuapp.com?user=sierrapablo&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D&" 
           width="95%" alt="Github stats" align="center" />
     </picture>
+</div>
+
+<h2>Some Projects and companies I have worked for</h2>
+<div style="display: flex; justify-content: space-between; align-items: center; margin: 0 auto;">
+  <img width="20%" style="margin: 0 10px;" alt="NttData" src="https://cdn.worldvectorlogo.com/logos/ntt-data-logo.svg" />
+  <img width="5%" style="margin: 0 10px;" alt="Caixabank" src="https://www.caixabank.es/favicon.ico" />
+  <img width="20%" style="margin: 0 10px;" alt="Santander" src="https://cdn.worldvectorlogo.com/logos/banco-santander-logo.svg" />
+  <img width="5%" style="margin: 0 10px;" alt="Andalucia" src="https://cdn.worldvectorlogo.com/logos/junta-de-andalucia.svg" />
+  <img width="5%" style="margin: 0 10px;" alt="GPTadvisor" src="https://gptadvisor.com/images/logo-gptadvisor.svg" />
+  <img width="10%" style="margin: 0 10px;" alt="SDGgroup" src="https://www.sdggroup.com//hs-fs/hubfs/HD%20Assets/logos/SDG%20-%20Logo%20White%20(1).png" />
+  <img width="20%" style="margin: 0 10px;" alt="HoplaSoftware" src="https://hopla.tech/wp-content/uploads/2024/07/hopla-logo.svg" />
 </div>
