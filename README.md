@@ -79,7 +79,7 @@
     </picture>
 </div>
 
-<h2>Some Projects and companies I have worked for</h2>
+<h2>Some projects and companies I have worked for</h2>
 <div style="display: flex; justify-content: space-between; align-items: center; margin: 0 auto;">
   <img width="20%" style="margin: 0 10px;" alt="NttData" src="https://cdn.worldvectorlogo.com/logos/ntt-data-logo.svg" />
   <img width="5%" style="margin: 0 10px;" alt="Caixabank" src="https://www.caixabank.es/favicon.ico" />
