@@ -7,13 +7,13 @@ Although I studied engineering, I have been playing the guitar since I was a chi
 <h2>My main stack</h2>
 <h3>Languages</h3>
 <div style="display: flex; justify-content: space-between; align-items: center; margin: 0 auto;">
-  <img width="5%" alt="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img width="5%" alt="NodeJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img width="5%" alt="Python" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original.svg" />
-  <img width="5%" alt="C" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-original.svg" />
+  <img width="5%" alt="C++" src="https://github.com/isocpp/logos/blob/master/cpp_logo.svg" />
+  <img width="5%" alt="Postgres" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img width="5%" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img width="5%" alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img width="5%" alt="Postgres" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img width="5%" alt="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img width="5%" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
 <h3>Tools I frequently use</h3>
@@ -22,6 +22,7 @@ Although I studied engineering, I have been playing the guitar since I was a chi
   <img width="2.5%" alt="Windows" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/windows11/windows11-original.svg" />
   <img width="2.5%" alt="Android" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/android/android-original.svg" />
   <img width="2.5%" alt="VSCode" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vscode/vscode-original.svg" />
+  <img width="2.5%" alt="GitHub" src="https://www.svgrepo.com/download/217753/github.svg" />
   <img width="2.5%" alt="DBeaver" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/dbeaver/dbeaver-original.svg" />
   <img width="2.5%" alt="Postman" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postman/postman-original.svg" />
   <img width="2.5%" alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
