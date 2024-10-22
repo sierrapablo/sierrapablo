@@ -54,7 +54,7 @@
         <!-- Top Languages para el modo oscuro (Derecha) -->
         <picture>
             <source 
-                srcset="" 
+                srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sierrapablo&layout=compact&langs_count=5&hide_border=true&theme=transparent&title_color=f2c35c&icon_color=a67b40&text_color=88ab98"
                 media="(prefers-color-scheme: dark)"
             />
             <!-- Fallback para el modo claro -->
