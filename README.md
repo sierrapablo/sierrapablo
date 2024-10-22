@@ -59,7 +59,7 @@
             />
             <!-- Fallback para el modo claro -->
             <img 
-                src="https://github-readme-stats.vercel.app/api/top-langs/?username=sierrapablo&layout=donut&hide_border=true&theme=default" 
+                src="https://github-readme-stats.vercel.app/api/top-langs/?username=sierrapablo&layout=compact&langs_count=5&hide_border=true&theme=default" 
                 alt="Most used languages" width="40%" />
         </picture>
     </div>
