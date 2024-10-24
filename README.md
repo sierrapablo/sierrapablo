@@ -48,7 +48,7 @@
             />
             <!-- Fallback para el modo claro -->
             <img 
-                src="https://github-readme-stats.vercel.app/api?username=sierrapablo&show_icons=true&hide_rank=true&rank_icon=github&hide=contribs&count_private=true&hide_border=true&count_private=true&theme=default" 
+                src="https://github-readme-stats.vercel.app/api?username=sierrapablo&show_icons=true&hide_rank=true&rank_icon=github&hide=contribs&hide_border=true&count_private=true&theme=default" 
                 alt="Github stats" width="55%"/>
         </picture>
         <!-- Top Languages para el modo oscuro (Derecha) -->
