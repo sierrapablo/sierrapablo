@@ -39,6 +39,7 @@
 
 <h2>My GitHub statistics</h2>
 <div style="display: flex; justify-content: space-between; align-items: center; margin: 0 auto;">
+  <!--
     <div style="flex-basis: 95%; text-align: center;">
         <!-- Stats para el modo oscuro (Izquierda) -->
         <picture>
@@ -49,18 +50,18 @@
             <!-- Fallback para el modo claro -->
             <img 
                 src="https://github-readme-stats.vercel.app/api?username=sierrapablo&show_icons=true&hide_rank=true&rank_icon=github&hide=contribs&hide_border=true&count_private=true&theme=default" 
-                alt="Github stats" width="55%"/>
+                alt="Github stats" width="45%"/>
         </picture>
         <!-- Top Languages para el modo oscuro (Derecha) -->
         <picture>
             <source 
-                srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sierrapablo&layout=donut&langs_count=5&hide_border=true&theme=transparent&title_color=f2c35c&icon_color=a67b40&text_color=88ab98"
+                srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sierrapablo&layout=normal&langs_count=5&hide_border=true&theme=transparent&title_color=f2c35c&icon_color=a67b40&text_color=88ab98"
                 media="(prefers-color-scheme: dark)"
             />
             <!-- Fallback para el modo claro -->
             <img 
-                src="https://github-readme-stats.vercel.app/api/top-langs/?username=sierrapablo&layout=donut&langs_count=5&hide_border=true&theme=default" 
-                alt="Most used languages" width="40%" />
+                src="https://github-readme-stats.vercel.app/api/top-langs/?username=sierrapablo&layout=normal&langs_count=5&hide_border=true&theme=default" 
+                alt="Most used languages" width="45%"/>
         </picture>
     </div>
 </div>
@@ -75,7 +76,7 @@
       <!-- Fallback para el modo claro -->
       <img 
           src="https://github-readme-streak-stats.herokuapp.com?user=sierrapablo&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D&" 
-          width="95%" alt="Github stats" align="center" />
+          width="90%" alt="Github stats" align="center" />
     </picture>
 </div>
 
