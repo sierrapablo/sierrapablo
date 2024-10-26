@@ -39,7 +39,6 @@
 
 <h2>My GitHub statistics</h2>
 <div style="display: flex; justify-content: space-between; align-items: center; margin: 0 auto;">
-  <!--
     <div style="flex-basis: 95%; text-align: center;">
         <!-- Stats para el modo oscuro (Izquierda) -->
         <picture>
