@@ -55,12 +55,12 @@
         <!-- Top Languages para el modo oscuro (Derecha) -->
         <picture>
             <source 
-                srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sierrapablo&layout=normal&langs_count=5&hide_border=true&theme=transparent&title_color=f2c35c&icon_color=a67b40&text_color=88ab98"
+                srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=sierrapablo&layout=compact&langs_count=5&hide_border=true&theme=transparent&title_color=f2c35c&icon_color=a67b40&text_color=88ab98"
                 media="(prefers-color-scheme: dark)"
             />
             <!-- Fallback para el modo claro -->
             <img 
-                src="https://github-readme-stats.vercel.app/api/top-langs/?username=sierrapablo&layout=normal&langs_count=5&hide_border=true&theme=default" 
+                src="https://github-readme-stats.vercel.app/api/top-langs/?username=sierrapablo&layout=compact&langs_count=5&hide_border=true&theme=default" 
                 alt="Most used languages" width="40%" align="top-center"/>
         </picture>
     </div>
