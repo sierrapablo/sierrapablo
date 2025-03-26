@@ -87,5 +87,5 @@
   <img width="5%" style="margin: 0 10px;" alt="Andalucia" src="https://cdn.worldvectorlogo.com/logos/junta-de-andalucia.svg" />
   <img width="5%" style="margin: 0 10px;" alt="GPTadvisor" src="https://gptadvisor.com/images/logo-gptadvisor.svg" />
   <img width="10%" style="margin: 0 10px;" alt="SDGgroup" src="https://www.sdggroup.com//hs-fs/hubfs/HD%20Assets/logos/SDG%20-%20Logo%20White%20(1).png" />
-  <img width="20%" style="margin: 0 10px;" alt="HoplaSoftware" src="https://hopla.tech/wp-content/uploads/2024/07/hopla-logo.svg" />
+  <img width="20%" style="margin: 0 10px;" alt="HoplaSoftware" src="https://hopla.tech/wp-content/uploads/2024/06/isotopo-negro.webp" />
 </div>
