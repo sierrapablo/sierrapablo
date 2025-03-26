@@ -25,6 +25,7 @@
   <img width="5%" alt="Typescript" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/typescript/typescript-original.svg" />
   <img width="5%" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img width="5%" alt="Shell" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/bash/bash-original.svg" />
+  <img width="5%" alt="Docker" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/docker/docker-original.svg" />
   <img width="5%" alt="Lua" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/lua/lua-original.svg" />
   <img width="5%" alt="Java" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-original.svg" />
 </div>
@@ -36,7 +37,6 @@
   <img width="5%" alt="DBeaver" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/dbeaver/dbeaver-original.svg" />
   <img width="5%" alt="Postman" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postman/postman-original.svg" />
   <img width="5%" alt="Vite" src="https://vite.dev/logo.svg" />
-  <img width="5%" alt="Docker" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/docker/docker-original.svg" />
   <img width="5%" alt="FileZilla" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/filezilla/filezilla-original.svg" />
   <img width="5%" alt="Notion" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/notion/notion-original.svg" />
 </div>
