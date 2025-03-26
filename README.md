@@ -1,40 +1,44 @@
-<h1>Hi, I'm Pablo. It's nice to meet you here!</h1>
+<h1>Hi, I'm Pablo. It's nice to meet you!</h1>
 <p>
-  I am a data engineer who loves working in challenging projects with all kinds of technologies.</br>
+  I’m a software engineer passionate about tackling challenging projects with diverse technologies.</br>
 </p>
 
 <h2>About me</h2>
 <p>
-  I have worked in various roles as a data engineer and data analyst, and I am now focused on learning front-end development to complement my data-driven expertise, allowing me to create end-to-end applications and to lead larger projects.</br>
+  I have experience working as a data engineer and data analyst, and I’m currently focusing on front-end development to complement my data-driven expertise. My goal is to build end-to-end applications and lead larger projects.</br>
+  As a freelancer, I help small and mid-sized businesses digitize their company profiles and optimize their business intelligence (BI).
 </p>
 <p>
-  In my free time, I work on a couple of side projects because I love technology and consider myself a bit of a geek.</br>
+  In my free time, I enjoy working on side projects and playing guitar with my alt-rock band, <i>Fase Alterna</i>.</br>
 </p>
 
 <h2>My main stack</h2>
-<h3>Languages</h3>
 <div style="display: flex; justify-content: space-between; align-items: center; margin: 0 auto;">
-  <img width="5%" alt="NodeJS" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nodejs/nodejs-original.svg" />
   <img width="5%" alt="Python" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original.svg" />
-  <img width="5%" alt="C++" src="https://github.com/isocpp/logos/blob/master/cpp_logo.svg" />
+  <img width="5%" alt="Rust" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/rust/rust-original.svg" />
   <img width="5%" alt="Postgres" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img width="5%" alt="NodeJS" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nodejs/nodejs-original.svg" />
+  <img width="5%" alt="React" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/react/react-original.svg" />
   <img width="5%" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img width="5%" alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img width="5%" alt="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img width="5%" alt="Typescript" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/typescript/typescript-original.svg" />
   <img width="5%" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img width="5%" alt="Shell" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/bash/bash-original.svg" />
+  <img width="5%" alt="Lua" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/lua/lua-original.svg" />
+  <img width="5%" alt="Java" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-original.svg" />
 </div>
 <h3>Tools I frequently use</h3>
 <div style="display: flex; justify-content: space-between; align-items: center; margin: 0 auto;">
-  <img width="3.5%" alt="Ubuntu" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" />
-  <img width="3.5%" alt="Windows" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/windows11/windows11-original.svg" />
-  <img width="3.5%" alt="Android" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/android/android-original.svg" />
-  <img width="3.5%" alt="VSCode" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vscode/vscode-original.svg" />
-  <img width="3.5%" alt="GitHub" src="https://www.svgrepo.com/download/217753/github.svg" />
-  <img width="3.5%" alt="DBeaver" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/dbeaver/dbeaver-original.svg" />
-  <img width="3.5%" alt="Postman" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postman/postman-original.svg" />
-  <img width="3.5%" alt="Docker" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/docker/docker-original.svg" />
-  <img width="3.5%" alt="FileZilla" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/filezilla/filezilla-original.svg" />
-  <img width="3.5%" alt="Notion" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/notion/notion-original.svg" />
+  <img width="5%" alt="Linux" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linux/linux-original.svg" />
+  <img width="5%" alt="NeoVim" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/neovim/neovim-original.svg" />
+  <img width="5%" alt="GitHub" src="https://www.svgrepo.com/download/217753/github.svg" />
+  <img width="5%" alt="DBeaver" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/dbeaver/dbeaver-original.svg" />
+  <img width="5%" alt="Postman" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postman/postman-original.svg" />
+  <img width="5%" alt="Vite" src="https://vite.dev/logo.svg" />
+  <img width="5%" alt="Docker" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/docker/docker-original.svg" />
+  <img width="5%" alt="FileZilla" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/filezilla/filezilla-original.svg" />
+  <img width="5%" alt="Notion" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/notion/notion-original.svg" />
 </div>
 
 <h2>My GitHub statistics</h2>
